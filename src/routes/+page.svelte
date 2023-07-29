@@ -9,4 +9,5 @@
 	<meta name="description" content={description} />
 </svelte:head>
 
-Hello world
+<h1>{title}</h1>
+<p>{description}</p>
